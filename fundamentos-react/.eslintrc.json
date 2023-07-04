@@ -1,0 +1,18 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "indent": [
+      "error",
+      4
+    ],
+    "semi": [
+        "error",
+        "always"
+    ],
+    "quotes": [
+        "error",
+        "double"
+    ],
+    "no-undef": "off"
+  }
+}
